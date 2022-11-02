@@ -1,0 +1,23 @@
+/*Основні кольори*/
+:root {--brand-color: #212121;
+    --text-color: #757575;
+    --accent-color: #FFFFFF;
+    --sub-accent:#2196F3;
+}
+
+.base-logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: var(--sub-accent);
+}
+.logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: var(--brand-color);
+}
