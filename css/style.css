@@ -11,7 +11,7 @@
 }
 
 .body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--brand-color);
   letter-spacing: 0.03em;
   background-color: var(--accent-color);
@@ -20,7 +20,7 @@
   text-decoration: none;
 }
 .base-logo {
-  font-family: "Raleway";
+  font-family: 'Raleway';
   font-size: 26px;
   font-weight: 700;
   color: var(--sub-accent);
@@ -28,7 +28,7 @@
   line-height: 1.2;
 }
 .logo {
-  font-family: "Raleway";
+  font-family: 'Raleway';
   font-size: 26px;
   font-weight: 700;
   color: var(--logo);
