@@ -34,6 +34,7 @@
   font-weight: 500;
   list-style: none;
   letter-spacing: 0.02em;
+  line-height: 1.14;
 
 }
 .list{
@@ -74,7 +75,7 @@
   font-family: inherit;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1.87;
+  line-height: 1.8;
   letter-spacing: 0.06em;
   font-size: 16px;
 
@@ -111,7 +112,6 @@
 }
 .photo-title {
   font-weight: 500;
-  line-height: 1.18;
   font-size: 16px;
 }
 .photo-text {
@@ -145,7 +145,7 @@
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.62;
+  line-height: 1.6;
   cursor: pointer;
   background-color: var(--bgc-section);
   
