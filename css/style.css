@@ -112,6 +112,7 @@
 .photo-title {
   font-weight: 500;
   line-height: 1.18;
+  font-size: 16px;
 }
 .photo-text {
   font-size: 16px;
@@ -121,7 +122,7 @@
   background-color: var(--bgc);
 }
 .logo-footer{
-    color: #ffffff;
+    color: var(--accent-color);
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
     font-weight: 700;
