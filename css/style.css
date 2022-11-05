@@ -15,6 +15,7 @@
   color: var(--brand-color);
   letter-spacing: 0.03em;
   font-size: 14px;
+  line-height: 1.2;
   background-color: var(--accent-color);
 }
  a{
@@ -25,24 +26,24 @@
     font-size: 26px;
     font-weight: 700;
     color: var(--logo);
-    line-height: 1.2;
 }
 .base-logo {
   color: var(--sub-accent);
 }
 .nav-list {
   font-weight: 500;
-  line-height: 1.2;
   list-style: none;
   letter-spacing: 0.02em;
-color: var(--brand-color);
+
+}
+.list{
+ color: var(--brand-color);
 }
 .active{
     color: var(--sub-accent);
 }
 .address {
   font-weight: 500;
-  line-height: 1.2;
   letter-spacing: 0.02em;
   list-style: none;
 }
@@ -103,7 +104,6 @@ color: var(--brand-color);
 .section-text {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.2;
   text-align: center;
 }
 .section-photo {
@@ -114,7 +114,6 @@ color: var(--brand-color);
   line-height: 1.18;
 }
 .photo-text {
-  line-height: 1.2;
   font-size: 16px;
   color: var(--text-color);
 }
@@ -126,7 +125,6 @@ color: var(--brand-color);
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
     font-weight: 700;
-    line-height: 1.2;
 }
 .mail {
   font-style: normal;
