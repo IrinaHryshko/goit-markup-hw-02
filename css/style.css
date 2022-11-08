@@ -21,18 +21,21 @@
  a{
   text-decoration: none;
 }
+ul{
+    list-style: none;
+}
 .logo {
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
     font-weight: 700;
     color: var(--logo);
+    line-height: 1.19;
 }
 .base-logo {
   color: var(--sub-accent);
 }
 .nav-list {
   font-weight: 500;
-  list-style: none;
   letter-spacing: 0.02em;
   line-height: 1.14;
 
@@ -87,6 +90,7 @@
 .btn:focus{
   background-color: var(--hover-accent);
 }
+
 .subtitle {
   font-weight: 700;
   line-height: 1.14;
@@ -106,6 +110,7 @@
   font-weight: 700;
   font-size: 36px;
   text-align: center;
+  line-height: 1.16;
 }
 .section-photo {
   background-color: var(--bgc-section);
@@ -113,10 +118,12 @@
 .photo-title {
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.18;
 }
 .photo-text {
   font-size: 16px;
   color: var(--text-color);
+  line-height: 1.18;
 }
 .footer {
   background-color: var(--bgc);
@@ -126,19 +133,16 @@
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
     font-weight: 700;
+    line-height: 1.19;
 }
 .mail {
   font-style: normal;
   line-height: 1.7;
-  list-style: none;
   color: rgba(255, 255, 255, 0.6);
 }
 .mail:hover,
 .mail:focus {
   color: var(--sub-accent);
-}
-.map-link {
-  list-style: none;
 }
 /*Сторінка портфоліо, хедер і футер перенесені*/
 .button {
